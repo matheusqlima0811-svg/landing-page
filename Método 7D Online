@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Primeira Venda em 7 Dias</title>
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', 'SEU_PIXEL_ID');
+fbq('track', 'PageView');
+</script>
+
+<style>
+body{
+margin:0;
+font-family:Arial;
+background:#000;
+color:#fff;
+text-align:center;
+}
+
+.container{
+max-width:600px;
+margin:auto;
+padding:20px;
+}
+
+h1{
+color:#00ff88;
+font-size:28px;
+}
+
+.sub{
+color:#ccc;
+font-size:18px;
+margin-bottom:20px;
+}
+
+.video{
+background:#111;
+height:200px;
+border-radius:10px;
+margin-bottom:20px;
+display:flex;
+align-items:center;
+justify-content:center;
+color:#777;
+}
+
+.botao{
+display:block;
+background:#00ff88;
+color:#000;
+padding:18px;
+border-radius:10px;
+font-size:20px;
+font-weight:bold;
+text-decoration:none;
+margin:20px 0;
+}
+
+.box{
+background:#111;
+padding:15px;
+border-radius:10px;
+margin:15px 0;
+text-align:left;
+}
+
+.urgencia{
+color:red;
+font-weight:bold;
+margin-top:10px;
+}
+
+.depo{
+font-size:14px;
+color:#aaa;
+margin-top:5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>💰 Descubra Como Fazer Sua Primeira Venda em Até 7 Dias</h1>
+
+<p class="sub">
+Mesmo começando do zero, sem experiência e usando apenas o celular
+</p>
+
+<div class="video">
+[ COLOQUE SEU VÍDEO AQUI ]
+</div>
+
+<a href="SEU_LINK_AQUI" class="botao">
+QUERO COMEÇAR AGORA 🚀
+</a>
+
+<p class="urgencia">
+⚠️ Últimas vagas com desconto hoje
+</p>
+
+<div class="box">
+✔ Sem precisar aparecer<br>
+✔ Método simples e direto<br>
+✔ Funciona mesmo pra iniciantes<br>
+✔ Acesso imediato
+</div>
+
+<div class="box">
+<strong>O que você vai aprender:</strong><br><br>
+📌 Como fazer sua primeira venda<br>
+📌 Estratégia validada<br>
+📌 Passo a passo completo<br>
+📌 Como escalar depois
+</div>
+
+<div class="box">
+<strong>Depoimentos:</strong><br><br>
+<p class="depo">"Fiz minha primeira venda em poucos dias."</p>
+<p class="depo">"Muito simples e direto."</p>
+<p class="depo">"Valeu muito a pena."</p>
+</div>
+
+<a href="SEU_LINK_AQUI" class="botao">
+COMEÇAR AGORA 💰
+</a>
+
+<p class="depo">🔒 Compra segura</p>
+
+</div>
+
+</body>
+</html>
